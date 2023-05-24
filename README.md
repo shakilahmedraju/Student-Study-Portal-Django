@@ -15,4 +15,5 @@ Technologies Used: Python, Django, HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![App Screenshot](https://tinyurl.com/2qp5wreh)
+![Student-dashboard](https://github.com/shakilahmedraju/Student-Study-Portal-Django/assets/126360201/6cc45d92-93ad-4173-8a52-5f0ebee342db)
+
